@@ -1,13 +1,13 @@
-## <img src="public/logo.png" alt="nametheflag logo" width="60"/> nametheflag
+## <img src="public/logo.png" alt="logo" width="60"/> GuessTheFlag
 
 This is a fun little project built with React.
 I love learning about flags and wanted to build something fun that combines my interest in flags with my interest in frontend development.
 
-Play it here: [nametheflag.julius-busch.com](https://nametheflag.julius-busch.com)
+Play it here: [guesstheflag.julius-busch.com](https://guesstheflag.julius-busch.com)
 
 ## 🎯 About the Game
 
-nametheflag tests your knownledge of the flags of the world. You are shown a random flag and you have to guess the country name as quickly as possible. It has the following features:
+GuessTheFlag tests your knownledge of the flags of the world. You are shown a random flag and you have to guess the country name as quickly as possible. It has the following features:
 
 - ⛳ Fast rounds and immediate feedback.
 - 🌍 Checks the country names in 26 languages.
@@ -31,8 +31,8 @@ This project was built using:
 To run the project locally:
 
 ```bash
-git clone https://github.com/julii-b/nametheflag.git
-cd nametheflag
+git clone https://github.com/julii-b/guesstheflag.git
+cd guesstheflag
 npm install
 npm run dev
 ```

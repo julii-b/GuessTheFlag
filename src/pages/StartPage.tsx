@@ -18,9 +18,9 @@ function StartScreen({onStart}: {onStart: () => void }): JSX.Element {
         <div className={styles.startScreenWrapper}>
             <picture>
                 <source srcSet="logo.webp" type="image/webp" />
-                <img className={styles.logo}  src="logo.png" alt="name the flag logo" />
+                <img className={styles.logo}  src="logo.png" alt="logo" />
             </picture>
-            <h1 className={styles.gameName}>nametheflag</h1>
+            <h1 className={styles.gameName}>GuessTheFlag</h1>
             <Button onClick={onStart} aria-label="Start game.">Okaaay let's go!</Button>
         </div>
     );

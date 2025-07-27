@@ -1,6 +1,6 @@
 import {retrieveCountryAlias} from './countryAliasService.ts';
 
-import type {Flag} from './../types';
+import type {Flag} from '../types.ts';
 
 /**
  * Asynchonously loads an Array of flag URLs with the corresponding country names.
@@ -13,7 +13,7 @@ import type {Flag} from './../types';
  */
 export const retrieveFlags = async (): Promise<Flag[]> => {
 
-    // example data for testing:
+    // example data for testing:"
     let flags: Flag[]  = [
         /*{ names: ["Belgium"], url: "https://flagcdn.com/w320/be.png" },
         { names: ["China"], url: "https://flagcdn.com/w320/cn.png" },

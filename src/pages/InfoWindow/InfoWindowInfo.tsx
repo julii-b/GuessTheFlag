@@ -25,12 +25,12 @@ function InfoWindowInfo({onClose}: {onClose: ()=>void}): JSX.Element {
                 </p>
 
                 <p>
-                    GitHub Repository: <a href="https://github.com/julii-b/nametheflag" target="_blank" rel="noopener noreferrer"> github.com/julii-b/nametheflag </a>
+                    GitHub Repository: <a href="https://github.com/julii-b/guesstheflag" target="_blank" rel="noopener noreferrer"> github.com/julii-b/guesstheflag </a>
                 </p>
 
                 <h3>🎯 About the Game</h3>
                 <p>
-                    nametheflag tests your knowledge of the flags of the world. You are shown a random flag and you have to guess the country name as quickly as possible. It has the following features:
+                    GuessTheFlag tests your knowledge of the flags of the world. You are shown a random flag and you have to guess the country name as quickly as possible. It has the following features:
                 </p>
                 <ul>
                     <li>⛳ Fast rounds and immediate feedback.</li>
