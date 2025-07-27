@@ -1,4 +1,4 @@
-## <img src="public/logo.png" alt="logo" width="60"/> GuessTheFlag
+## <img src="public/logo.png" alt="logo" height="24px"/> GuessTheFlag
 
 This is a fun little project built with React.
 I love learning about flags and wanted to build something fun that combines my interest in flags with my interest in frontend development.
