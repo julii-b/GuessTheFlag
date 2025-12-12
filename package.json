@@ -13,7 +13,7 @@
     "fastest-levenshtein": "^1.0.16",
     "react": "^19.2.3",
     "react-confetti": "^6.4.0",
-    "react-dom": "^19.1.0",
+    "react-dom": "^19.2.3",
     "react-use": "^17.6.0"
   },
   "devDependencies": {
